@@ -1,0 +1,114 @@
+[
+  {
+    "id": 1,
+    "name": "Portakal Aroması",
+    "description": "Doğala özdeş portakal aroması",
+    "stock": "true",
+    "brand": "Kerry",
+    "category": "Aroma"
+  },
+  {
+    "id": 2,
+    "name": "Nar Aroması",
+    "description": "Doğala özdeş nar aroması",
+    "stock": "true",
+    "brand": "Sensient",
+    "category": "Aroma"
+  },
+  {
+    "id": 3,
+    "name": "Gül Aroması",
+    "description": "Doğala özdeş gül aroması",
+    "stock": "true",
+    "brand": "Cargill",
+    "category": "Aroma"
+  },
+  {
+    "id": 4,
+    "name": "Elma Aroması",
+    "description": "Doğala özdeş elma aroması",
+    "stock": "true",
+    "brand": "Kerry",
+    "category": "Aroma"
+  },
+  {
+    "id": 5,
+    "name": "Çikolata Aroması",
+    "description": "Doğala özdeş çikolata aroması",
+    "stock": "true",
+    "brand": "Kerry",
+    "category": "Aroma"
+  },
+  {
+    "id": 6,
+    "name": "Kakao Tozu",
+    "description": "Altın standartlarında dutch kakao tozu",
+    "stock": "true",
+    "brand": "Gerkens",
+    "category": "Kakao"
+  },
+  {
+    "id": 7,
+    "name": "Buğday Nişastası",
+    "description": "Dünya markası cargill buğday nişastası",
+    "stock": "true",
+    "brand": "Cargill",
+    "category": "Nişasta"
+  },
+  {
+    "id": 8,
+    "name": "Mısır Nişastası",
+    "description": "Dünya markası cargill mısır nişastası",
+    "stock": "true",
+    "brand": "Cargill",
+    "category": "Nişasta"
+  },
+  {
+    "id": 9,
+    "name": "Vanilya",
+    "description": "Katkısız saf vanilya!",
+    "stock": "true",
+    "brand": "Rough Diamond",
+    "category": "Vanilya"
+  },
+  {
+    "id": 10,
+    "name": "Mavi Gıda Boyası",
+    "description": "Renklerin memleketi hindistan menşeili boya",
+    "stock": "true",
+    "brand": "Roha",
+    "category": "Gıda Boyası"
+  },
+  {
+    "id": 11,
+    "name": "Sarı Gıda Boyası",
+    "description": "Renklerin memleketi hindistan menşeili boya",
+    "stock": "true",
+    "brand": "Roha",
+    "category": "Gıda Boyası"
+  },
+  {
+    "id": 12,
+    "name": "Kırmızı Gıda Boyası",
+    "description": "Renklerin memleketi hindistan menşeili boya",
+    "stock": "true",
+    "brand": "Roha",
+    "category": "Gıda Boyası"
+  },
+  {
+    "id": 13,
+    "name": "Kırmızı Gıda Boyası",
+    "description": "Renklerin memleketi hindistan menşeili boya",
+    "stock": "true",
+    "brand": "Roha",
+    "category": "Gıda Boyası"
+  },
+  {
+    "id": 14,
+    "name": "Turuncu Gıda Boyası",
+    "description": "Renklerin memleketi hindistan menşeili boya",
+    "stock": "true",
+    "brand": "Roha",
+    "category": "Gıda Boyası"
+  }
+]
